@@ -77,4 +77,4 @@ with open(f"WLO{Date}.txt", "a") as wloa:
 
 print(f"Save the datas in WLO{Date}.txt!")
 rraw.close()
-
+#Updated: 2023-Oct-15 23:26
