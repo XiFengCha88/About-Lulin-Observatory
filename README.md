@@ -1,11 +1,9 @@
 # FirstProgram
 The first program testing
 
-Checking out file WLO20231015.txt, here's the information, 
+Checking out file WLO20231015.txt, here's #Description of the information, 
 
 ===Table of weather information===
-
-#Description
 
 tz: date and time
 
